@@ -144,7 +144,7 @@ Or if running on Google Colab:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Azzam Abdullah Al-Matrafi/Default-of-Credit-Card-Clients.git
    cd your-repo-name
    ```
 
